@@ -1,0 +1,9 @@
+/dags/__pycache__
+/dags/images
+.vscode
+/airflow_env
+/data
+/logs
+/plugins
+requirements.txt
+docker-compose_original.yaml
